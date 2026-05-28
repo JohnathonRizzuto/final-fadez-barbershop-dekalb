@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://final-fadez-barbershop-dekalb.vercel.app/sitemap.xml
